@@ -1,8 +1,7 @@
 # senses
 
-- view
-- hear
-- speak
+- hearing
+- sight
 - touch
 
 [ToDo](ToDo)
